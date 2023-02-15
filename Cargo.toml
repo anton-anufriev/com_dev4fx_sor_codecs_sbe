@@ -1,0 +1,10 @@
+[package]
+name = "com_dev_4fx_sor_codecs_sbe"
+version = "0.1.0"
+authors = ["sbetool"]
+description = "Messages schema"
+edition = "2018"
+
+[lib]
+name = "com_dev_4fx_sor_codecs_sbe"
+path = "src/lib.rs"
